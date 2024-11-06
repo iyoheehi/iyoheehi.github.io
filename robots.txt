@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyoheehi.github.io/Cng/sitemap_index.txt
+Sitemap: https://iyoheehi.github.io/DGN/sitemap_index.txt
+Sitemap: https://iyoheehi.github.io/NMf/sitemap_index.txt
+Sitemap: https://iyoheehi.github.io/rty/sitemap_index.txt
